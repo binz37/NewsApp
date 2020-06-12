@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="category_list_title">News Category List</string>
+    <string name="category_id_list_title">{0} News List</string>
+    <string name="press_twice_to_exit">Tekan sekali lagi untuk keluar</string>
+    <string name="news_detail_title">News Detail</string>
+</resources>
